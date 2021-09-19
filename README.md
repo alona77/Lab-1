@@ -6,8 +6,8 @@ Fiecare soluție trebuie să asigure o interfață de tip consolă care să perm
 
 Codul din template-ul oferit nu poate fi modificat decât în locurile unde se specifică acest lucru!
 
-1. [3p] Să se stabilească daca un număr n este prim sau nu.
+1. [2.5p] Să se stabilească daca un număr n este prim sau nu.
 Exemplu: n = 3  este prim, dar n = 6 nu este prim
-2. [3p] Să se calculeze produsul a n numere naturale
+2. [2.5p] Să se calculeze produsul a n numere naturale
 Exemplu: n = 3 și numerele 3, 4, 5, produsul este 60.
-3. [4p] Să se calculeze CMMDC a 2 numere folosind doi algoritmi distincți.
+3. [5p] Să se calculeze CMMDC a 2 numere folosind doi algoritmi distincți.

@@ -1,4 +1,4 @@
-# Laborator 1, saptamana 1
+# Laborator 1, săptămâna 1
 
 Rezolvați toate problemele de mai jos, în timpul laboratorului. 
 
